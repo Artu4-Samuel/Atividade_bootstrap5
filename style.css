@@ -1,0 +1,44 @@
+body {
+    background-color: #0a0e24;
+    width: 100%;
+}
+
+.hero {
+   background-color: #3a599c;
+   text-align: center;
+   height: 550px;
+   width: 100%;
+}
+
+.proj {
+    align-self: start;
+}
+
+footer {
+    background-color: #212129;
+    text-align: center;
+    height: 100px;
+    color: azure;
+    margin-top: 10px;
+    width: 100%;
+}
+.conteiner {
+    height: 860px;
+    width: 1500px;
+}
+
+.card {
+    height: 157px;
+    text-align: center;
+}
+
+.nucleo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img {
+    padding-left: 20px;
+
+}
